@@ -1,0 +1,12 @@
+__pycache__
+src/test
+*.csv
+*.tsv
+*.zip
+*.h5
+*.pkl
+*.json
+src/service/visualizeService/1.jpg
+src/service/visualizeService/save_icon.png
+secret.cfg
+google_token.pickle
